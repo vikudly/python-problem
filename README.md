@@ -1,6 +1,5 @@
 # python-problem
-this is solution of the matematic problem
- n(n>0) butun soni berilgan n
-1 ... 2
-1 1   
- (Yig‘indi haqiqiy son). Yig‘indi hisoblansin
+this is solution of the mathematic problem
+
+problem:
+  n butun soni berilgan 1.1 * 1.2 * 1.3 * ....{1.n} (n ta ko‘paytuvchi). Ko‘paytma hisoblansin.
